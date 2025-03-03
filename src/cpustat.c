@@ -42,7 +42,7 @@ void monitor_pid(int target_pid) {
 
 int main(int argc, char **argv) {
     if (argc < 2) {
-        printf("Usage: %s <pid>\n", argv[0]);
+        printf("cant use without pid!!!\n");
         return 1;
     }
     monitor_pid(atoi(argv[1]));
