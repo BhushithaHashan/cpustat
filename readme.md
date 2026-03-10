@@ -1,6 +1,4 @@
-This C program is a classic example of **Low-Level Systems Programming**. You aren't just using a library; you're using **Direct System Calls** (`SYS_open`, `SYS_read`) to talk to the Linux Kernel and parsing the `/proc` filesystem manually.
 
-Here is a clean, professional `README.md` for your GitHub repo.
 ---
 
 # 🕵️ Process Monitor (Low-Level C)
